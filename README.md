@@ -1,4 +1,3 @@
-# simulador-freelancer
 # 💻 Simulador de Orçamento Freelancer
 
 ## 📌 Sobre o Projeto
